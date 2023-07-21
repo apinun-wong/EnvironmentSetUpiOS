@@ -1,0 +1,14 @@
+#include "Pods/Target Support Files/Pods-EnvironmentSeparateDemo/Pods-EnvironmentSeparateDemo.release.xcconfig"
+#include "Pods/Target Support Files/Pods-EnvironmentSeparateDemoTests/Pods-EnvironmentSeparateDemoTests.release.xcconfig"
+//
+//  Release.xcconfig
+//  EnvironmentSeparateDemo
+//
+//  Created by Apinun on 21/7/2566 BE.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+APP_NAME = Demo Prod
+VERSION_NAME = 1.0.0

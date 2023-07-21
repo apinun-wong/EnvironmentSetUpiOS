@@ -1,0 +1,6 @@
+framework module Pods_EnvironmentSeparateDemo_EnvironmentSeparateDemoUITests {
+  umbrella header "Pods-EnvironmentSeparateDemo-EnvironmentSeparateDemoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

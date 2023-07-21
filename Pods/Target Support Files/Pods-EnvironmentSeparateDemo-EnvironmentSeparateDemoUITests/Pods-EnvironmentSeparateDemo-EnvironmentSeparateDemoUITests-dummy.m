@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_EnvironmentSeparateDemo_EnvironmentSeparateDemoUITests : NSObject
+@end
+@implementation PodsDummy_Pods_EnvironmentSeparateDemo_EnvironmentSeparateDemoUITests
+@end
