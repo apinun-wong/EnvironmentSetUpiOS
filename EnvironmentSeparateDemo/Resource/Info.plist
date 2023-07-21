@@ -2,6 +2,12 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>MyKeyLabel1</key>
+	<string>$(PAGE1_CONFIG_TITLE)</string>
+	<key>MyKeyLabel2</key>
+	<string>$(PAGE1_CONFIG_TITLE2)</string>
+	<key>MyKeyLabel3</key>
+	<string>$(PAGE1_CONFIG_TITLE3)</string>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>

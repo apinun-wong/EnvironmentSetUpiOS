@@ -12,3 +12,7 @@
 
 APP_NAME = Demo Prod
 VERSION_NAME = 1.0.0
+
+PAGE1_CONFIG_TITLE = Hi Prod.
+PAGE1_CONFIG_TITLE2 = I am Developer Prod.
+PAGE1_CONFIG_TITLE3 = I live in Thailand Prod.

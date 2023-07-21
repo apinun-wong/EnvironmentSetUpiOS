@@ -11,3 +11,7 @@
 
 APP_NAME = Demo Debug
 VERSION_NAME = 1.0.0
+
+PAGE1_CONFIG_TITLE = Hi Debug
+PAGE1_CONFIG_TITLE2 = I am Developer Debug
+PAGE1_CONFIG_TITLE3 = I live in Thailand Debug.
