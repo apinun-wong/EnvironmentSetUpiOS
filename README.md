@@ -28,3 +28,23 @@ Step 3 - Choose Build with new Scheme and Click Edit Scheme.<br>
 ![Screenshot 2566-07-22 at 09 23 10](https://github.com/apinun-wong/EnvironmentSetUpiOS/assets/49288081/ffcb4d3c-b91b-4502-827f-fc308c47ef2f)<br>
 Step 4 - Click Tab info and choose Build Configuration same scheme. <br>
 ![Screenshot 2566-07-22 at 09 23 56](https://github.com/apinun-wong/EnvironmentSetUpiOS/assets/49288081/2afad0ba-716d-49db-b09e-7ab72bb96b4d) <br>
+<br>
+<br>
+## Add Configurations File when we need to use different settings (App name, version, or something) <br>
+Step 1 - Right click in a folder in the project and choose "new file". After search type with this picture.<br>
+![Screenshot 2566-07-22 at 09 34 14](https://github.com/apinun-wong/EnvironmentSetUpiOS/assets/49288081/4eca8dac-4f51-4131-b3a1-c756e0b95be0) <br>
+
+Step 2 - Adding new configurations <br>
+![Screenshot 2566-07-22 at 09 35 20](https://github.com/apinun-wong/EnvironmentSetUpiOS/assets/49288081/0a8b4997-c532-4d10-9030-158b4103b1fa) <br>
+<br>
+#### We use configuration files with plist.info files or build settings in the project.<br>
+![Screenshot 2566-07-22 at 09 37 26](https://github.com/apinun-wong/EnvironmentSetUpiOS/assets/49288081/f167aebf-5e5f-4a74-ab14-6580a6656fef) <br>
+![Screenshot 2566-07-22 at 09 39 26](https://github.com/apinun-wong/EnvironmentSetUpiOS/assets/49288081/91c5b2bf-f3de-4953-8025-a9d6f51ae373) <br>
+#### In Code <br>
+![Screenshot 2566-07-22 at 09 39 53](https://github.com/apinun-wong/EnvironmentSetUpiOS/assets/49288081/63c8e34e-6a49-4242-8765-ea62a2deac8f)
+
+
+
+
+
+
